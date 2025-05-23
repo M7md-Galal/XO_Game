@@ -54,4 +54,4 @@ A simple, and fully functional implementation of the classic XO game using **C# 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/M7md-Galal/X-O_Game.git
+   git clone https://github.com/M7md-Galal/XO_Game.git
